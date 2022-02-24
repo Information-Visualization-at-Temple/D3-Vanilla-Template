@@ -10,3 +10,7 @@ Spin up a simple python server (depending on python version) to host your code:
 
 - `python -m SimpleHTTPServer 4000`
 - `python3 -m http.server 4000`
+
+## Create Github Pages
+
+To host your code, use Github pages (https://docs.github.com/en/pages/quickstart) 
